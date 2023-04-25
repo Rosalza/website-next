@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is 
+=======
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+>>>>>>> 767f8cea9f65abd9c650475dd253638d73d05b45
 
 ## Getting Started
 
