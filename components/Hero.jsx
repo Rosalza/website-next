@@ -13,7 +13,7 @@ const Hero = () => {
     <section id='home' className={`flex md:flex-row flex-col ${styles.paddingY}`}>
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className='flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2'>
-          <Image src={"Discount.svg"} alt='discount' width={32} height={32} className='w-[32px] h-[32px]' />
+          <Image src={"hero-logo.svg"} alt='discount' width={32} height={32} className='w-[32px] h-[32px]' />
           <p className={`${styles.paragraph} ml-2`}>
             <span className='text-white'>{lang.lng.hero.widgetWhite1}</span> {lang.lng.hero.widgetGray1} {' '}
             <span className='text-white'>{lang.lng.hero.widgetWhite2}</span> {lang.lng.hero.widgetGray2}
