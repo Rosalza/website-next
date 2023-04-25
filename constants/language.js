@@ -46,7 +46,7 @@ const de = {
         headlineSeg2: 'treten und Ihr Unternehmen',
         headlineGold2: 'kennenlernen',
         headlineSeg3: '!',
-        text1: 'In diesem Call werden wir uns die zeit nehmen, um Ihr Unternehmen und Ihre spezifischen Ziele und Bedürfnisse zu verstehen. Wir werden Ihnen auch unsere personalisierten Marketing-Strategien vorstellen und Ihnen zeigen, wie wir diese Strategien auf Ihr Unternehmen anwenden können, um Ihre Online-Präsenz zu maximieren und das Wachstum Ihres Unternehmens zu steigern.',
+        text1: 'In diesem Call werden wir uns die Zeit nehmen, um Ihr Unternehmen und Ihre spezifischen Ziele und Bedürfnisse zu verstehen. Wir werden Ihnen auch unsere personalisierten Marketing-Strategien vorstellen und Ihnen zeigen, wie wir diese Strategien auf Ihr Unternehmen anwenden können, um Ihre Online-Präsenz zu maximieren und das Wachstum Ihres Unternehmens zu steigern.',
         text2: 'Sie können einen Termin ganz einfach über den Kalender auf der linken Seite buchen. Wählen sie einfach einen verfügbaren Termin aus, geben Sie Ihre Kontaktdaten ein und bestätigen Sie die Buchung - und schon sind Sie bereit für Ihren Demo-Call!',
     },
     form: {
