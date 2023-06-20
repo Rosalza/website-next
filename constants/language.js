@@ -10,9 +10,9 @@ const de = {
         widgetGray1: 'ganz',
         widgetWhite2: 'einfach',
         widgetGray2: 'Buchen',
-        headlineWhite1: 'Verwandeln Sie',
-        headlineGold: 'in Gold!',
-        headlineWhite2: 'ihr Ad-Budget',
+        headlineWhite1: '',
+        headlineGold: 'Solar Magnet',
+        headlineWhite2: ' - Die Revolution im Personalwesen',
         text: 'Sie sind es leid, Zeit und Geld für fehlerhafte und ineffektive Werbekampagnen zu verschwenden? Wir verstehen Sie voll und ganz. Aus diesem Grund setzten wir unser Fachwissen im Bereich digitales Marketing ein, um Werbekampagnen zu kreiren, die tatsächlich konvertieren.',
         buttonText1: 'Termin',
         buttonText2: 'vereinbaren'
