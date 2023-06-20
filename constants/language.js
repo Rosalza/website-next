@@ -10,9 +10,9 @@ const de = {
         widgetGray1: 'ganz',
         widgetWhite2: 'einfach',
         widgetGray2: 'Buchen',
-        headlineWhite1: 'Die Revolution im Personalwesen:',
+        headlineWhite1: 'Die Revolution',
         headlineGold: 'Solar Magnet',
-        headlineWhite2: '',
+        headlineWhite2: 'im Personalwesen:',
         text: 'Sind Sie es leid, Geld an Ihre Konkurrenz zu verlieren, weil Sie nicht genug qualifiziertes Personal haben? Wir haben die Lösung für Sie. Mit SolarMagnet vereinbaren wir für Sie innerhalb von 90 Tagen zwischen 35 und 65 Bewerbungsgespräche mit hochqualifizierten Kandidaten für Ihr Solaranlagen-Unternehmen. Wir nehmen Ihnen das Risiko aus dem Einstellungsprozess und helfen Ihnen, Ihr Geschäft im großen Stil auszubauen.',
         buttonText1: 'Termin',
         buttonText2: 'vereinbaren'
