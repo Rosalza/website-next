@@ -11,9 +11,9 @@ const de = {
         widgetWhite2: 'einfach',
         widgetGray2: 'Buchen',
         headlineWhite1: 'Die Revolution',
-        headlineGold: 'Solar Magnet',
+        headlineGold: '<br />Talent Magnet',
         headlineWhite2: 'im Personalwesen:',
-        text: 'Sind Sie es leid, Geld an Ihre Konkurrenz zu verlieren, weil Sie nicht genug qualifiziertes Personal haben? Wir haben die Lösung für Sie. Mit SolarMagnet vereinbaren wir für Sie innerhalb von 90 Tagen zwischen 35 und 65 Bewerbungsgespräche mit hochqualifizierten Kandidaten für Ihr Solaranlagen-Unternehmen. Wir nehmen Ihnen das Risiko aus dem Einstellungsprozess und helfen Ihnen, Ihr Geschäft im großen Stil auszubauen.',
+        text: 'Sind Sie es leid, Geld an Ihre Konkurrenz zu verlieren, weil Sie nicht genug qualifiziertes Personal haben? Wir haben die Lösung für Sie. Mit Talent Magnet vereinbaren wir für Sie innerhalb von 90 Tagen zwischen 35 und 65 Bewerbungsgespräche mit hochqualifizierten Kandidaten für Ihr Unternehmen. Wir nehmen Ihnen das Risiko aus dem Einstellungsprozess und helfen Ihnen, Ihr Geschäft im großen Stil auszubauen.',
         buttonText1: 'Termin',
         buttonText2: 'vereinbaren'
     },
@@ -21,9 +21,9 @@ const de = {
         headlineSeg1: 'Wie wir Ihnen',
         headlineSeg2: '',
         headlineGold: 'helfen',
-        headlineSeg3: 'können,',
+        headlineSeg3: 'können:',
         headlineSeg4: '',
-        text: 'Wir sind eine Agentur, die sich auf Online-Marketing für Solaranlagen-Unternehmen spezialisiert hat. Wir wissen, wie schwierig es ist, gutes Personal zu finden und zu halten. Deshalb haben wir eine einzigartige Strategie entwickelt, die Ihnen garantiert, dass Sie nur mit den besten Talenten in Kontakt kommen.',
+        text: 'Wir sind eine Agentur, die sich auf Online-Marketing für Unternehmen spezialisiert hat. Wir wissen, wie schwierig es ist, gutes Personal zu finden und zu halten. Deshalb haben wir eine einzigartige Strategie entwickelt, die Ihnen garantiert, dass Sie nur mit den besten Talenten in Kontakt kommen.',
         buttonText: 'Termin vereinbaren',
         features: {
             first: {
@@ -46,8 +46,8 @@ const de = {
         headlineSeg2: 'Ihren kostenlosen',
         headlineGold2: 'Discovery-Call',
         headlineSeg3: '!',
-        text1: 'Wenn Sie bereit sind, Ihre Personalprobleme zu lösen und Ihr Geschäft auf die nächste Stufe zu bringen, dann buchen Sie jetzt Ihren kostenlosen Demo-Call mit uns. In diesem Call werden wir uns die Zeit nehmen, um Ihr Unternehmen und Ihre spezifischen Ziele und Bedürfnisse zu verstehen. Wir werden Ihnen auch unsere personalisierten Marketing-Strategien vorstellen und Ihnen zeigen, wie wir diese Strategien auf Ihr Unternehmen anwenden können, um Ihre Online-Präsenz zu maximieren und das Wachstum Ihres Unternehmens zu steigern.',
-        text2: 'Sie können einen Termin ganz einfach über den Kalender auf der linken Seite buchen. Wählen sie einfach einen verfügbaren Termin aus, geben Sie Ihre Kontaktdaten ein und bestätigen Sie die Buchung - und schon sind Sie bereit für Ihren Demo-Call! Verpassen Sie nicht diese einmalige Gelegenheit, Ihr Ad-Budget in Gold zu verwandeln! Buchen Sie jetzt Ihren Demo-Call und lassen Sie uns gemeinsam Ihre Personalrevolution starten!',
+        text1: 'Wenn Sie bereit sind, Ihre Personalprobleme zu lösen und Ihr Geschäft auf die nächste Stufe zu bringen, dann buchen Sie jetzt Ihren kostenlosen Discovery-Call mit uns. In diesem Call werden wir uns die Zeit nehmen, um Ihr Unternehmen und Ihre spezifischen Ziele und Bedürfnisse zu verstehen. Wir werden Ihnen auch unsere personalisierten Marketing-Strategien vorstellen und Ihnen zeigen, wie wir diese Strategien auf Ihr Unternehmen anwenden können, um Ihre Online-Präsenz zu maximieren und das Wachstum Ihres Unternehmens zu steigern.',
+        text2: '',
     },
     form: {
         headline: 'Sonst noch Fragen? Kontaktieren Sie uns:',
@@ -57,7 +57,7 @@ const de = {
         buttonText: 'Senden'
     },
     footer: {
-        slogan: 'Verwandeln Sie Ihr Ad-Budget in Gold!',
+        slogan: 'Die Revolution im Personalwesen - TalentMagent',
         linktree1Head: 'Nützliche Links'
     },
     confirmation: {
