@@ -81,7 +81,7 @@ const en = {
         headlineWhite1: 'The Recruitment',
         headlineWhite2: 'Revolution:',
         headlineGold: 'Talent Magnet',
-        text: "Are you tired of losing money to your competition because you don’t have enough qualified staff? We have the solution for you. With SolarMagnet, we schedule between 35 and 65 applicant interviews with highly qualified candidates for your solar installation company within 90 days. We take the risk out of the hiring process and help you grow your business on a large scale.",
+        text: "Are you tired of losing money to your competition because you don’t have enough qualified staff? We have the solution for you. With Talent Magner, we schedule between 35 and 65 applicant interviews with highly qualified candidates for your company within 90 days. We take the risk out of the hiring process and help you grow your business on a large scale.",
         buttonText1: 'Schedule',
         buttonText2: 'appointment.'
     },
@@ -91,7 +91,7 @@ const en = {
         headlineGold: 'help',
         headlineSeg3: 'you:',
         headlineSeg4: '',
-        text: 'We are an agency that specializes in online marketing for solar installation companies. We know how difficult it is to find and retain good staff. That’s why we have developed a unique strategy that guarantees that you only get in touch with the best talent.',
+        text: 'We are an agency that specializes in online marketing for companies. We know how difficult it is to find and retain good staff. That’s why we have developed a unique strategy that guarantees that you only get in touch with the best talent.',
         buttonText: 'Schedule an appointment',
         features: {
             first: {
