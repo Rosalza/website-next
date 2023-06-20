@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
       
         <div className='flex flex-row justify-between items-center w-full'>
-          <h1 className='flex-1 font-poppins font-semibold ss:text-[50px] text-[30px] text-white ss:leading-[100px] leading-[75px]'>
+          <h1 className='flex-1 font-poppins font-semibold ss:text-[50px] text-[30px] text-white ss:leading-[70px] leading-[40px]'>
             {lang.lng.hero.headlineWhite1} <br className='sm:block hidden' /> {' '} 
             {lang.lng.hero.headlineWhite2}<br className='sm:block hidden' /> {' '} 
             <span 
