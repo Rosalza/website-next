@@ -24,7 +24,7 @@ const Hero = () => {
           <h1 className='flex-1 font-poppins font-semibold ss:text-[50px] text-[30px] text-white ss:leading-[70px] leading-[40px]'>
             {lang.lng.hero.headlineWhite1} <br className='sm:block hidden' /> {' '} 
             {lang.lng.hero.headlineWhite2}<br className='sm:block hidden' /> {' '} 
-            <span 
+            <br /><span 
             className='text-gradient2'>{lang.lng.hero.headlineGold}</span> {' '}
           </h1>
           <div className='ss:flex hidden md:mr-4 mr-0'>
