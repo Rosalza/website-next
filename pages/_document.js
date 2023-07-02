@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <title>Rosalza</title>
-        <meta name="description" content="Rosalza - The reveloution of recruiting">
+        <meta name="description" content="Rosalza - The reveloution of recruiting" />
       </Head>
       <body>
         <Main />
